@@ -6,7 +6,7 @@ Focused on RTL design and functional verification using industry-standard tools.
 ## 🛠️ Tools & Language
 - **Language**: SystemVerilog
 - **Curriculum**: Cadence Learning (System Verilog Design & Verification)
-- **Simulator**: Cadence Xcelium (or whichever you use)
+- **Simulator**: Cadence Xcelium 
 
 ## 📁 Repository Structure
 
